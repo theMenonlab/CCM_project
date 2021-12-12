@@ -1,0 +1,3 @@
+process_neuron_images.ipynb is used for processing the dataset which is saved as .mat file.
+train_network.ipynb is used for training the network.
+my_alg.py is a module that defines U-net we used in our project.
